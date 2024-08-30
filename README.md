@@ -29,9 +29,9 @@ This project is a simple React-based shopping cart application that includes fun
 
 ### Version 3.0:
 
--Integrate with more advanced backend services for dynamic stock management.
--Implement discount codes and promotions.
--Add a feature for users to leave reviews and ratings for products.
+- Integrate with more advanced backend services for dynamic stock management.
+- Implement discount codes and promotions.
+- Add a feature for users to leave reviews and ratings for products.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/LucaBrizuela/Shopping-Cart/blob/main/LICENSE) file for details.
