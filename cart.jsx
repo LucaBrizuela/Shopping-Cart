@@ -236,11 +236,11 @@ const products = [
   
           <Col className="cart">
             <h1>Cart</h1>
-            <h3>Cart Items:</h3>
+            <h3>Items:</h3>
             <Accordion defaultActiveKey="0">{cartList}</Accordion>
             <br />
             <h3>Check Out:</h3>
-            <h5 className="total">Cart Total: $ {finalList().total}</h5>
+            <h5 className="total">Total: $ {finalList().total}</h5>
             <div> {finalList().total > 0 && finalList().final} </div>
             <Button
               onClick={() => {
