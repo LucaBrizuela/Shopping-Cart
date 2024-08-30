@@ -20,14 +20,14 @@ This project is a simple React-based shopping cart application that includes fun
 4. To restock products, enter the Strapi API URL in the input field and click the "Re-Stock Products" button.
 
 ## Roadmap
-## Version 2.0:
+### Version 2.0:
 
 - Add user authentication to allow users to save their cart across sessions.
 - Implement a payment gateway for the checkout process.
 - Improve the UI/UX with better design and animations.
 - Add unit and integration tests for better code coverage.
 
-## Version 3.0:
+### Version 3.0:
 
 -Integrate with more advanced backend services for dynamic stock management.
 -Implement discount codes and promotions.
