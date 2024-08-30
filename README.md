@@ -37,4 +37,4 @@ This project is a simple React-based shopping cart application that includes fun
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/LucaBrizuela/Shopping-Cart/blob/main/LICENSE) file for details.
 
 ## Results
-![ShoppingCart](TzEix36aeV.png)
+![TzEix36aeV](TzEix36aeV.png)
